@@ -1,3 +1,7 @@
 - name: Carte du réseau scolaire du Québec (French only)
   category: web
   url: https://github.com/Sashenka/node-carte-mels
+- name: API des Régions administratives et MRC/TE du Québec (French only)
+  category: web
+  url: https://github.com/Sashenka/regions-administratives-quebec
+
